@@ -1,7 +1,5 @@
 # CSS Inheritance
 
-Selects the `<a>` immediately under the `<section>` element, but not the ones within the `<p>` element that is a grand-child.
-
 ![](https://raw.githubusercontent.com/hoc-demos/images/main/css-inheritance.png)
 ```css
 body {
